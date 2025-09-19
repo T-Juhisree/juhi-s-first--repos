@@ -1,3 +1,5 @@
 Juhisree Tatavarthi
 course: Bsc Artificial Intelligence
+
 GitHub is platform where we upload files repository and edit the file after uploading
+Github course make it more easy to uplod and edit
